@@ -1,0 +1,8 @@
+@@
+var lib,x identifier
+@@
+
+-import lib "github.com/fake/lib"
++import lib "github.com/totallyreal/lib"
+
+lib.x
